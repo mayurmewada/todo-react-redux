@@ -1,0 +1,10 @@
+Redux Assignment
+Todo Application
+
+Components to create
+Todo Item
+    feature => Checkbox for Done, Delete Icon for Delete
+Todo List
+    feature => Render List, Total Count
+Create Todo
+    feature => Input, Submit
